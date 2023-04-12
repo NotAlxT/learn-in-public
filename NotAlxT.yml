@@ -1,0 +1,64 @@
+template: "online-resume"
+skin: "yellow"
+
+basic_info:
+
+first_name: Alex
+last_name: Tran
+
+motto: Trust your instincts 
+
+focus: career
+
+summary: |
+      I been though many accoplishment, more than most people in my life can ever say they've accomplished.
+      But, also many failiures as well.
+
+avatar: https://randomuser.me/api/portraits/women/24.jpg
+
+
+
+email: AnhNTran56@gmail.com
+phone: 857-***-****
+
+github: https://github.com/NotAlxT
+
+languages:
+      - idiom: English
+        level: Native
+
+      - idiom: Vietnamese
+        level: Decent
+
+    interests:
+      - item: Gaming
+
+      - item: Music
+
+      - item: Gyming
+
+education:
+    - degree: HighSchool diploma
+      university: John D O'Bryant
+    
+experiences:
+    - role: Lead Bartender
+      time: 2015 - Present
+      company: Fuji, Putt Shack
+
+projects:
+    intro: >
+      Developed with a team to build a functional ecomerce website.
+    assignments:
+      - title: 2AM
+
+skills:
+    toolset:
+      - name: Python 
+        level: 50%
+
+      - name: Javascript 
+        level: 75%
+
+      - name: HTML5 & CSS
+        level: 90%
